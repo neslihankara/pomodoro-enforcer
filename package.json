@@ -1,7 +1,7 @@
 {
   "name": "pomodoro-enforcer",
   "version": "1.0.0",
-  "description": "A library that uses Pomodoro to make sure that you are taking enough breaks while coding.",
+  "description": "An npm library that uses Pomodoro to make sure that you are taking enough breaks while coding.",
   "main": "index.js",
   "scripts": {
     "lint": "eslint .",
