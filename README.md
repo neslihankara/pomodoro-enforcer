@@ -1,5 +1,8 @@
 # pomodoro-enforcer
 
+[![Build Status](https://travis-ci.com/neslihankara/pomodoro-enforcer.svg?branch=main)](https://travis-ci.com/neslihankara/pomodoro-enforcer)
+[![Coverage Status](https://coveralls.io/repos/github/neslihankara/pomodoro-enforcer/badge.svg?branch=improve-library)](https://coveralls.io/github/neslihankara/pomodoro-enforcer?branch=improve-library)
+
 A library that uses Pomodoro to make sure that you are taking enough breaks while coding.
 
 # Usage
