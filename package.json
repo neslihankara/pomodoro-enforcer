@@ -9,6 +9,12 @@
     "test": "jest --watchAll",
     "test:coveralls": "jest --coverage && coveralls < coverage/lcov.info"
   },
+  "keywords": [
+    "motivational",
+    "productivity",
+    "pomodoro",
+    "efficiency"
+  ],
   "repository": {
     "type": "git",
     "url": "git+https://github.com/neslihankara/pomodoro-enforcer.git"
