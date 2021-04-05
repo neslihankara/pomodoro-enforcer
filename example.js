@@ -1,5 +1,5 @@
 const enforcePomodoro = require('./index')
 
-console.log('the app starts', new Date())
+console.log('You got this!\n')
 
 enforcePomodoro(5, 2)
