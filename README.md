@@ -7,7 +7,7 @@ A library that enforces Pomodoro to make sure that you are taking enough breaks 
 
 # Goal
 
-Main goal of this library is to provide healthier workflows. Everyone knows that regular breaks save programmers' lives but no one really takes those breaks. So this library lets you integrate Pomodoro to your coding environment and save you from future errors due to fatigue.
+Main goal of this library is to provide healthier workflows. Everyone knows that regular breaks save programmers' lives but no one really takes those breaks. So this library lets you integrate Pomodoro to your coding environment and prevents you from future errors due to fatigue.
 
 # Usage
 
